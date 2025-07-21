@@ -19,21 +19,25 @@ This project focuses on analyzing and forecasting Walmart’s weekly sales using
 
 ![Dashboard Screenshot](dashboard/final_dashboard_screenshot.png)
 
+
 ---
 
 ## 📁 Folder Structure
 Walmart-Sales-Forecasting/
 │
 ├── data/
-│ ├── Walmart_Store_sales.csv
-│ └── forecast_output.csv
+│   ├── Walmart_Store_sales.csv
+│   └── forecast_output.csv
 │
 ├── notebooks/
-│ └── walmart_sales_forecasting.ipynb
+│   └── walmart_sales_forecasting.ipynb
 │
 ├── dashboard/
-│ ├── walmart_sales_dashboard.pbix
-│ └── final_dashboard_screenshot.png
+│   ├── walmart_sales_dashboard.pbix
+│   └── final_dashboard_screenshot.png
+│
+└── README.md
+
 
 ---
 
